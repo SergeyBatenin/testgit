@@ -9,4 +9,5 @@ Diagramm:
 
 
 option 2:
-![optionTwo](SQL%207-8.png)
+![optionTwo](https://i.postimg.cc/c4v7rp48/Class-Diagram.png)
+
