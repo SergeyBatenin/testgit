@@ -9,4 +9,4 @@ Diagramm:
 
 
 option 2:
-![optionTwo](SQL%207-8.png)
+![optionTwo](https://i.postimg.cc/d3mbdh94/Tasks1-5.png)
